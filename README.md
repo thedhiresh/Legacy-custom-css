@@ -1,2 +1,2 @@
 # Legacy-custom-css
-' All .txt file are css file '
+' All .txt file are css file'
