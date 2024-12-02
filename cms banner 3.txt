@@ -1,0 +1,11 @@
+<div id="cpcmsbanner3_block1">
+<div class="left-side main-content">
+<div class="cms_content"><a href="#"><img class="lazyload" src="https://legacy.com.np/new/img/cms/m.png" alt="cms-banner-1.jpg" width="1903" height="670" /> </a>
+<div class="cms-block">
+<div class="offer-text1">Best Deal on Combo</div>
+<div class="offer-text2">Best Wood<br />Doors and many more<br />Products</div>
+<div class="offer-button"><a class="btn" href="#">Shop Now</a></div>
+</div>
+</div>
+</div>
+</div>

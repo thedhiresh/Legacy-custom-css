@@ -1,0 +1,42 @@
+<div class="service-cms-banner-list feature-1">
+<div class="service_block_inner">
+<div class="service_content"><img src="https://legacy.com.np/new/img/cms/flag_1.png" width="42" height="42" alt="world-flag" />
+<h2 class="service_title1">Made In Nepal</h2>
+</div>
+</div>
+</div>
+<div class="service-cms-banner-list feature-2">
+<div class="service_block_inner">
+<div class="service_content"><img src="https://legacy.com.np/new/img/cms/service.png" width="42" height="42" alt="iso" />
+<h2 class="service_title1">European Standard Furniture</h2>
+</div>
+</div>
+</div>
+<div class="service-cms-banner-list feature-3">
+<div class="service_block_inner">
+<div class="service_content"><img src="https://legacy.com.np/new/img/cms/standard.png" width="42" height="42" alt="policies" />
+<h2 class="service_title1">18 Years of Manufacturing Excellence </h2>
+</div>
+</div>
+</div>
+<div class="service-cms-banner-list feature-4">
+<div class="service_block_inner">
+<div class="service_content"><img src="https://legacy.com.np/new/img/cms/reliability.png" width="42" height="42" alt="shield" />
+<h2 class="service_title1">Durable and Robust Designs</h2>
+</div>
+</div>
+</div>
+<div class="service-cms-banner-list feature-5">
+<div class="service_block_inner">
+<div class="service_content"><img src="https://legacy.com.np/new/img/cms/hand-saw.png" width="42" height="42" alt="chisel" />
+<h2 class="service_title1">Impeccable Craftsmanship</h2>
+</div>
+</div>
+</div>
+<div class="service-cms-banner-list feature-6">
+<div class="service_block_inner">
+<div class="service_content"><img src="https://legacy.com.np/new/img/cms/technical-support.png" width="42" height="42" alt="customer-service" />
+<h2 class="service_title1">Exceptional After Sales Service</h2>
+</div>
+</div>
+</div>

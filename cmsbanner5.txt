@@ -1,0 +1,18 @@
+<div id="cpcmsbanner5_block1">
+<div class="left-side main-content">
+<div class="cms_content"><a href="#"><img class="lazyload" src="https://legacy.com.np/new/img/cms/coffee%20table%20(1).png" alt="cms-banner-1.jpg" width="685" height="300" /> </a>
+<div class="cms-block">
+<div class="offer-text2">Magnificent<br />Coffee Table</div>
+<div class="offer-button"><a href="#">Shop Now</a></div>
+</div>
+</div>
+</div>
+<div class="right-side main-content">
+<div class="cms_content"><a href="#"> <img class="lazyload" src="https://legacy.com.np/new/img/cms/shoes%20rack.png" alt="cms-banner-2.jpg" width="685" height="300" /> </a>
+<div class="cms-block">
+<div class="offer-text2">Custom Made<br />Shoe Rack</div>
+<div class="offer-button"><a href="#">Shop Now</a></div>
+</div>
+</div>
+</div>
+</div>
