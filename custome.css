@@ -441,8 +441,13 @@ background-image: url('https://legacy.com.np/new/img/cms/testimonials_2.png')!im
 }
 /* End testimonials */
 /* Title */
-.title{
+.title,.title_cat{
 color: #149cb3;
+    font-size: 26px;
+    font-weight: 600;
+    line-height: 30px;
+    position: relative;
+    margin-bottom: 2px;
 }
 .sub-title{
 color:#000000!important;
@@ -450,9 +455,6 @@ color:#000000!important;
  /*  end  title */
 
 /* shop by category */
-#cpcategorylist{
-justify-content : space-around!important;
-}
 
 @media (min-width: 1025px) and (max-width: 1439px) {
     .left-side, .right-side {
@@ -479,3 +481,35 @@ margin-botttom:10px;
     .testimonial-block-part{
         background-image: url('https://legacy.com.np/new/img/cms/testimonials_2.png')!important;
         }
+
+div#cpcmsbanner4_block1 {
+    background-color: #f3f3f3;
+}
+
+@media only screen and (max-width: 700px) {
+.cpcategorylist{
+padding:10px;
+}
+.cms_content a img{
+aspect-ratio: 78 / 35!important;
+} 
+}
+a.ybc-mnf-block-a-img {
+    pointer-events: none;
+}
+.brand-area{
+pointer-events: none;
+}
+ .carousel-item img {
+            height: 400px; /* Set fixed height for carousel images */
+            object-fit: cover; /* Ensure images cover the area */
+        }
+        .section-header {
+            margin-bottom: 30px;
+        }
+     
+/* Footer */
+#link-static-page-contact-2,#link-cms-page-4-3{
+text-transform : none;
+}
+/* footer end */
