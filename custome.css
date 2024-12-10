@@ -509,7 +509,31 @@ pointer-events: none;
         }
      
 /* Footer */
-#link-static-page-contact-2,#link-cms-page-4-3{
+#link-static-page-contact-2,#link-cms-page-4-3 , .footer .footer-left .block-contact h3 .text-uppercase{
 text-transform : none;
 }
 /* footer end */
+
+
+/* service block */
+   /* Show image for mobile devices */
+@media (max-width: 768px) {
+    .image-mobile {
+        display: block;
+    }
+    .image-desktop {
+        display: none;
+    }
+
+}
+
+/* Show image for tablets, laptops, and desktops */
+@media (min-width: 769px) {
+    .image-desktop {
+        display: block;
+    }
+    .image-mobile {
+        display: none;
+    }
+}
+/* end of service block */
